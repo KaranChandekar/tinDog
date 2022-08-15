@@ -36,4 +36,5 @@ I'm a Learner with huge passion in web development...
 
 ## Screenshot
 
-[![Screenshot-29.png](https://i.postimg.cc/Z5g3vjmK/Screenshot-29.png)](https://postimg.cc/QFQVRQVR)
+![Screenshot (157)](https://user-images.githubusercontent.com/93200960/184637553-cf1551c3-14dc-4dc2-86a5-ffe7ee95362f.png)
+
